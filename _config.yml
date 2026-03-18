@@ -1,1 +1,10 @@
-theme: just-the-docs
+# 1. リモートテーマ（外部テーマ）を使うための指定
+remote_theme: just-the-docs/just-the-docs
+
+# 2. サイトの基本情報
+title: タイトルを書く
+description: ページの説明
+
+# 3. 検索機能などを有効にするための設定
+url: "https://yukihiroryoji.github.io"
+baseurl: "" # ※リポジトリ名が「username.github.io」なら空（""）にする
